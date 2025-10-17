@@ -3,8 +3,8 @@
 
 #include "ogniwo.h"
 
-class Iterator {
-    public
+class iterator {
+    public:
     ogniwo* wsk;
     iterator next(iterator it);
 };
